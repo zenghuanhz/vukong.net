@@ -1,2 +1,2 @@
-# vukong.net
-my home page
+# 欢迎认识我
+记录生活点滴
